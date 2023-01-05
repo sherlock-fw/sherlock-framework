@@ -1,6 +1,6 @@
 [submodule "app"]
 	path = app
-	url = ./app
+	url = https://github.com/sherlock-fw/sherlock-ui
 [submodule "include"]
 	path = include
-	url = ./include
+	url = https://github.com/sherlock-fw/sherlock-core
