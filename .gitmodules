@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = ./app
+[submodule "include"]
+	path = include
+	url = ./include

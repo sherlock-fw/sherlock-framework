@@ -1,0 +1,8 @@
+[workspace]
+members = [ 
+            "main",
+            "include/config_manager", 
+            "include/engines_manager",
+            "include/sherlock_manager",
+            "include/ipc",
+            ]
